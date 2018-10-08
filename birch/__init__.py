@@ -13,7 +13,7 @@ __license__ = "GNU GPLv3"
 __version__ = "1.0.3-alpha"
 __maintainer__ = "XELAJ technologies"
 __email__ = "rcooper.xelaj@protonmail.com"
-__status__ = "Devlopment"
+__status__ = "Development"
 
 import sys
 
